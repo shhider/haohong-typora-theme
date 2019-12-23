@@ -1,0 +1,15 @@
+{
+  "name": "haohong-typora",
+  "version": "0.1.0",
+  "author": "shhider@163.com",
+  "description": "Theme for Typora markdown editor",
+  "keywords": [],
+  "license": "MIT",
+  "scripts": {
+    "build": "sass --sourcemap=none ./src/index.scss ./index.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sass": "^1.24.0"
+  }
+}

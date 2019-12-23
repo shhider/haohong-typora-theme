@@ -1,0 +1,22 @@
+html {
+  font-size: 19px;
+}
+
+html, body {
+  margin: auto;
+  background: #fefefe;
+}
+body {
+  font-family: "Vollkorn", Palatino, Times;
+  color: #333;
+  line-height: 1.4;
+  text-align: justify;
+}
+
+#write {
+  max-width: 960px;
+  margin: 0 auto;
+  margin-bottom: 2em;
+  line-height: 1.53;
+  padding-top: 40px;
+}
